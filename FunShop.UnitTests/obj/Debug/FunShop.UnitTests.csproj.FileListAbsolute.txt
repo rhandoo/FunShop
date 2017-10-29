@@ -1,0 +1,13 @@
+V:\Rakesh\Final\Projects\FunShop\FunShop.UnitTests\bin\Debug\FunShop.UnitTests.dll
+V:\Rakesh\Final\Projects\FunShop\FunShop.UnitTests\bin\Debug\FunShop.UnitTests.pdb
+V:\Rakesh\Final\Projects\FunShop\FunShop.UnitTests\bin\Debug\Castle.Core.dll
+V:\Rakesh\Final\Projects\FunShop\FunShop.UnitTests\bin\Debug\FunShop.dll
+V:\Rakesh\Final\Projects\FunShop\FunShop.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+V:\Rakesh\Final\Projects\FunShop\FunShop.UnitTests\bin\Debug\Moq.dll
+V:\Rakesh\Final\Projects\FunShop\FunShop.UnitTests\bin\Debug\FunShop.pdb
+V:\Rakesh\Final\Projects\FunShop\FunShop.UnitTests\bin\Debug\Castle.Core.xml
+V:\Rakesh\Final\Projects\FunShop\FunShop.UnitTests\bin\Debug\Moq.pdb
+V:\Rakesh\Final\Projects\FunShop\FunShop.UnitTests\bin\Debug\Moq.xml
+V:\Rakesh\Final\Projects\FunShop\FunShop.UnitTests\obj\Debug\FunShop.UnitTests.csprojResolveAssemblyReference.cache
+V:\Rakesh\Final\Projects\FunShop\FunShop.UnitTests\obj\Debug\FunShop.UnitTests.dll
+V:\Rakesh\Final\Projects\FunShop\FunShop.UnitTests\obj\Debug\FunShop.UnitTests.pdb
